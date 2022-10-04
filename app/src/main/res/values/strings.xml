@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">calcIMC</string>
+    <string name="titulo" id="@+id/titulo">Calculadora de IMC (Indice de Massa Corporal)</string>
+    <string name="creditos" id="@+id/creditos">Por Alberto F. Pluecker @ github.com/albertofp</string>
+</resources>
